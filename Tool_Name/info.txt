@@ -1,9 +1,0 @@
-This tool welcomes you aesthetically
-------------------------------------------------
-When it starts work, she asks you a question, which is, “What is your name?” When you enter, 
-it will welcome you
--------------------------------------
-
-This tool was developed by :.
-Lord S 
-and a friend of his
