@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Welcome TO OUR Thinking World</h1>
 <h3 align="center">An expert in the world of technology in general To communicate and help, come here @MASTER_XTI in Telegram</h3>
-<img align="right" alt="Coding" width="256" src="https://img.itch.zone/aW1hZ2UvMTY1ODIxLzc2NTgwOC5naWY=/347x500/xIcN7/.gif">
+<img align="right" alt="Coding" width="254" src="https://img.itch.zone/aW1hZ2UvMTY1ODIxLzc2NTgwOC5naWY=/347x500/xIcN7/.gif">
 
 - 🔭 I’m currently working on [Number of antibiotics consumed](Coming UP ...)
 
