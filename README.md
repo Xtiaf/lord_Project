@@ -1,6 +1,8 @@
 <h1 align="center">Welcome TO OUR Thinking World</h1>
 <h3 align="center">An expert in the world of technology in general To communicate and help, come here @MASTER_XTI in Telegram</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xtiaf&label=Profile%20views&color=0e75b6&style=flat" alt="xtiaf" /> </p>
+
 - 🔭 I’m currently working on [Number of antibiotics consumed](Coming UP ...)
 
 - 🌱 I’m currently learning **Databases and more Programming Languages**
